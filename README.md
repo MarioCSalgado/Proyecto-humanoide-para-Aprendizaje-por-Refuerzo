@@ -1,5 +1,6 @@
 # **REPOSITORIO DEL PROYECTO DE APRENDIZAJE POR REFUERZO**
-**Alumnos:** 
+**Alumnos:**
+             
              Mirko Peñailillo
              
              Javier Reyes
