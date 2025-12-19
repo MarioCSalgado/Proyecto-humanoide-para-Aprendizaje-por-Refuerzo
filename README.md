@@ -1,7 +1,10 @@
 # **REPOSITORIO DEL PROYECTO DE APRENDIZAJE POR REFUERZO**
-Alumnos: Mirko Peñailillo
-         Javier Reyes
-         Mario Salgado
+**Alumnos:** 
+             Mirko Peñailillo
+             
+             Javier Reyes
+             
+             Mario Salgado
 
 ### **Link del PPT(canva) para visualizacion de videos:**
     https://www.canva.com/design/DAG0naXXKFE/DhqGHEklxJxsw4JjWMLEHg/edit
